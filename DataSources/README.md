@@ -1,4 +1,4 @@
-All Data Sources for the Final Project are saved in This repository.
+All Data Sources for the Final Project are saved in This repository. Due to size limitations the raw accelerometer data cannot be housed in this repository but can be located at https://archive.ics.uci.edu/ml/datasets/Heterogeneity+Activity+Recognition#
 
 The data sources for our feature spaces are indicated. FFT_features contains both spherical and cartesian features. Inputs to CNN generated using CNN preprocessing notebooks (See Preprocessing folder) are too large to download from google colab, but can be found in the 'Data' folder in the Shared project folder.
 
